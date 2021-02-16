@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        long[] array = new long[] {64, 42, 73, 41, 32, 53, 16, 24, 57, 42, 74, 55, 36};
+        long[] array = new long[] {54, 42, 8, 41, 34, 53, 14, 24, 53, 42, 0, 87, 55, 36, 42};
 
         ThanosSort.sort(array, 0, array.length - 1);
 
